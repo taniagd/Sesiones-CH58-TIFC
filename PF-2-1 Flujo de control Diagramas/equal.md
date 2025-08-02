@@ -17,4 +17,4 @@ Si lo es, se mostrará el mensaje **"EQUAL"**, en caso de no serlo, se repite el
 
 Aquí va el diagrama que explica el proceso visualmente:
 
-![Diagrama de flujo]("E:\CH58GenMex\TIFC\PF-2-1 Flujo de control Diagramas\TIFC1-PF-2-1-1 Equal.png")
+![Diagrama de flujo]("images\TIFC1-PF-2-1-1 Equal.png")
