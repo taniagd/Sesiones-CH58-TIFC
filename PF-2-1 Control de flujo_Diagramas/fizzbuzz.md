@@ -38,4 +38,4 @@ Los errores lógicos ocurren cuando un programa no se comporta como se espera, a
 
 Aquí puedes insertar el diagrama de flujo que explica el proceso visualmente:
 
-![Diagrama de flujo](images/TIFC1-PF-2-1-2%20-%20Fizzbuzz.jpg)
+![Diagrama de flujo](../images/TIFC1-PF-2-1-2%20-%20Fizzbuzz.jpg)
