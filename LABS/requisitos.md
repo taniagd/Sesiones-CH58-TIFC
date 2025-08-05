@@ -19,4 +19,9 @@ Es el lenguaje de programación que utilizaremos. Es crucial tenerlo instalado y
 🟢Pytest  
 Es el framework de pruebas que usaremos para validar nuestro código. Es la herramienta que ejecutará las pruebas automáticas de los laboratorios.
 
+<<<<<<< HEAD
 ⚡Instalación: Una vez que tengas Python instalado, abre una terminal o el terminal integrado de VS Code (Ctrl+ñ) y ejecuta el siguiente comando: `pip install pytest`  
+=======
+⚡Instalación: Una vez que tengas Python instalado, abre una terminal o el terminal integrado de VS Code (Ctrl+ñ) y ejecuta el siguiente comando: 
+`pip install pytest`  
+>>>>>>> ce8ebf9adf8449c878409578cb4a1c6ea10348fc
